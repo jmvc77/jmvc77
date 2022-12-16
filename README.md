@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmvc77
 - 👀 I’m interested in computational mechanics.
-- 🌱 I’m currently learning method of approximated partial solutions.
+- 🌱 I’m currently learning the method of approximated partial solutions.
 - 💞️ I’m looking to collaborate on elasticity, fluid mechanics, fluid-structure interaction.
 - 📫 How to reach me: juan.vasquez@upb.edu.co
 
